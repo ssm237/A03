@@ -34,18 +34,30 @@ Note the published URL
 Part 2 Glossary 
 
 •	Branches -allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+
 •	Clone -A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. 
+
 •	Commit- is an individual change to a file (or set of files).
+
 •	Fetch- When you use git fetch, you're adding changes from the remote repository to your local working branch without committing them.
+
 •	Git - is an open-source program for tracking changes in text files. 
+
 •	GitHub- is the social and user interface git is built on top of.
+
 •	Merge- takes the changes from one branch and then applies them to another through a pull request.
+
 •	Merge conflict- A difference that occurs between merged branches. It occurs when people make different changes to the same line.
+
 •	Push- to push means to send your committed changes to a remote repository on github.com.
+
 •	Pull- refers to when you are fetching in changes and merging them.
+
 •	Remote- This is the version of a repository or branch that is hosted on a server.
+
 •	Repository- is the most basic element of GitHub which contains all the project files and stores each files revision history.
 
 References
 https://docs.github.com/en/get-started/quickstart/github-glossary
+
 Introduction to github and webstorm ppt by Arthur Hendela.
